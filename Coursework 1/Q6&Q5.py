@@ -173,6 +173,7 @@ def numeric(value):
     "Check if a value is numeric"
     return isinstance(value, int) or isinstance(value, float)
 
+
 ###############################################################################
 
 class Question:
