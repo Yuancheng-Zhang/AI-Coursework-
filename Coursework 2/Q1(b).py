@@ -133,3 +133,5 @@ plt.plot(scale, y3, 'r')
 plt.plot(scale, y_true, "b")
 plt.title("k=3")
 # plt.show()
+
+
